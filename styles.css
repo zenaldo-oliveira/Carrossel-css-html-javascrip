@@ -10,7 +10,7 @@ body {
     background-color: #000;
     color: antiquewhite;
     font-size: 12px;
-    
+    overflow: hidden;
 
 }
 
